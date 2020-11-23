@@ -7,6 +7,6 @@
   "dependencies": {
     "express": "4.17.1",
     "ejs-locals": "~1.0.2",
-    "uglify-js": "~3.11.0"
+    "uglify-js": "~3.12.0"
   }
 }
